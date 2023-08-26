@@ -1,1 +1,0 @@
-::: python_poetry_example
